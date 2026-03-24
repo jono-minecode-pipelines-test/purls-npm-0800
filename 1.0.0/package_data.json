@@ -1,0 +1,51 @@
+{
+    "name": "-greact-dom",
+    "version": "1.0.0",
+    "keywords": [
+        "hack"
+    ],
+    "author": {
+        "url": "https://github.com/satoki",
+        "name": "Satoki",
+        "email": "t.satoki111@gmail.com"
+    },
+    "license": "ISC",
+    "_id": "-greact-dom@1.0.0",
+    "maintainers": [
+        {
+            "name": "satoki00",
+            "email": "t.satoki111@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "a640e1ca9eb4ac239516998dd7fba113391a90f5",
+        "tarball": "https://registry.npmjs.org/-greact-dom/-/-greact-dom-1.0.0.tgz",
+        "fileCount": 2,
+        "integrity": "sha512-xJGYPUcs+FJWMN7e98JPc7kRQUaMPdeSLoC58kBKviYSAlZnTpLLxidM5riUzLTPqOabTJ9+vLte09sNJns4AA==",
+        "signatures": [
+            {
+                "sig": "MEUCICXCSQdaeC8THLKaAvzkOEKtYFAj4qaDKd3/D6m3J/z9AiEApFAOEeUHmwygeDjvHqr7HZyjQ+xNYSI4k7qIRRcYEio=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 682
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "postinstall": "node index.js"
+    },
+    "_npmUser": {
+        "name": "satoki00",
+        "email": "t.satoki111@gmail.com"
+    },
+    "_npmVersion": "10.2.0",
+    "description": "@satoki00",
+    "directories": {},
+    "_nodeVersion": "21.1.0",
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/-greact-dom_1.0.0_1721274003470_0.6940314765266338",
+        "host": "s3://npm-registry-packages"
+    }
+}

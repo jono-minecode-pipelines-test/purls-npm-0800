@@ -1,0 +1,51 @@
+{
+    "name": "-greact-dom",
+    "version": "999.0.0",
+    "description": "@satoki00",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "postinstall": "node index.js"
+    },
+    "keywords": [
+        "hack"
+    ],
+    "author": {
+        "name": "Satoki",
+        "email": "t.satoki111@gmail.com",
+        "url": "https://github.com/satoki"
+    },
+    "license": "ISC",
+    "_id": "-greact-dom@999.0.0",
+    "_nodeVersion": "21.1.0",
+    "_npmVersion": "10.2.0",
+    "dist": {
+        "integrity": "sha512-4O3rygxQ4JFPjAo/Ur09xHormpON1U/nYBpAZ1j/RYtelZtWVb/2OfDknZ/pm5RHjCpZLuRkEhexXvgUO6mquA==",
+        "shasum": "0566495a0a5329b0515106861521447d715c9183",
+        "tarball": "https://registry.npmjs.org/-greact-dom/-/-greact-dom-999.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 684,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIAwo9xPT5xbncf0uOhIv/SgK5kiC5HYLORDRNwU/G5rNAiEAhmpB9cF0Ngd7kEaxv4TeJ4kwXud08qHneAp6SKx70Qk="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "satoki00",
+        "email": "t.satoki111@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "satoki00",
+            "email": "t.satoki111@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-greact-dom_999.0.0_1721378539647_0.44864756071390244"
+    },
+    "_hasShrinkwrap": false
+}
