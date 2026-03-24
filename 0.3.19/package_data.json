@@ -1,0 +1,114 @@
+{
+    "name": "0.3.20-beta.11",
+    "version": "0.3.19",
+    "description": "Synapse Reusable components library v2",
+    "main": "build/bundle.js",
+    "module": "build/bundle.module.js",
+    "scripts": {
+        "build": "rollup -c rollup.config.js",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "storybook": "start-storybook -p 6006",
+        "build-storybook": "build-storybook"
+    },
+    "author": {
+        "name": "Synapse"
+    },
+    "license": "ISC",
+    "peerDependencies": {
+        "@material-ui/core": "4.3.1",
+        "node-sass": "^4.13.1",
+        "prop-types": "^15.7.2",
+        "react": "^16.10.2",
+        "react-dom": "^16.10.2"
+    },
+    "dependencies": {
+        "@date-io/core": "^1.3.11",
+        "@date-io/date-fns": "^1.3.11",
+        "@material-ui/core": "4.3.1",
+        "@material-ui/pickers": "^3.2.7",
+        "classnames": "^2.2.6",
+        "date-fns": "^2.4.1",
+        "filestack-js": "3.12.4",
+        "lodash": "^4.17.15",
+        "moment": "^2.24.0",
+        "react": "^16.10.2",
+        "react-app-polyfill": "^1.0.6",
+        "react-dom": "^16.10.2",
+        "react-draggable-list": "^4.0.3",
+        "react-mentions": "^3.3.1",
+        "uuid": "^3.4.0"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.8.4",
+        "@babel/preset-env": "^7.8.4",
+        "@babel/preset-react": "^7.8.3",
+        "@rollup/plugin-alias": "^3.1.2",
+        "@rollup/plugin-commonjs": "^18.0.0",
+        "@storybook/addon-actions": "^6.1.10",
+        "@storybook/addon-essentials": "^6.1.10",
+        "@storybook/addon-links": "^6.1.10",
+        "@storybook/preset-scss": "^1.0.3",
+        "@storybook/react": "^6.1.10",
+        "babel-loader": "^8.2.2",
+        "css-loader": "^5.0.1",
+        "node-sass": "^4.13.1",
+        "prop-types": "^15.7.2",
+        "rollup": "^2.45.2",
+        "rollup-plugin-alias": "^2.2.0",
+        "rollup-plugin-babel": "^4.3.3",
+        "rollup-plugin-commonjs": "^10.1.0",
+        "rollup-plugin-node-resolve": "^5.2.0",
+        "rollup-plugin-postcss": "^2.0.6",
+        "rollup-plugin-replace": "^2.2.0",
+        "sass": "^1.25.0",
+        "sass-loader": "^10.1.0",
+        "style-loader": "^2.0.0"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version",
+            "ie 11"
+        ]
+    },
+    "gitHead": "43b8eda4f3b86c5a4eb4a854873ff9efb7b30eb2",
+    "_id": "0.3.20-beta.11@0.3.19",
+    "_nodeVersion": "10.19.0",
+    "_npmVersion": "6.14.4",
+    "dist": {
+        "integrity": "sha512-WtxCOBr9DYEF+mtT+5Uw6c1ZDFEDlJN7fGjAGTIWokUawqir4kTT2CwHC9lS449f1GChRDTCKDXoTQkD8cO6jQ==",
+        "shasum": "c91e3df0ea0bdfecaca5ca4c26f3cd9accd234fe",
+        "tarball": "https://registry.npmjs.org/0.3.20-beta.11/-/0.3.20-beta.11-0.3.19.tgz",
+        "fileCount": 4,
+        "unpackedSize": 6604945,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgfb2BCRA9TVsSAnZWagAAPasP/Rogfwz1hIU9ORKPVzmX\naxPCaBJPCYa5qraxW/gGKzziW9c5JJXNnBAglJ0ZIIsihGOuXjpjIkmpg/tG\nLxYIhYlQzWLZ1FqCCyDeRSNq/MR30i7cwIQO4kQ/hsQWxSgvYtm2KxLDfYEV\nsad6YsPY/ubnuNlCui1rtr5HDr4mAI59LEFf/Uyfn2NmUo4rtycayTWnusDt\nM9ol+4tcmMB9Tqyr0mr2Qmekl9WrE3NjjTvowugTZ5jE4P6exVwCiZ7m+/2A\nt3BCZ/D+isXcx6KRw0VMtXlzJTTGlIn4oCvHbdMokAOvaTQvwTF5Q9lXnPcY\naRf6YA1ODWP4k57b/LVhEP6LRDqoEJFW1ZH5FwkxACJxRv8RRFQIT6oHLrEn\n7E0FjvMFwqgjOz0Kgr1W/Abgonc9yCKlVFoLF/nMGVRNr7AR2P3pDAMtJbLR\nib53sunnWAPalDVpeVH6zwS/qM+FOgMav4JeaRYxp0jALihpbSWQ1xqUNhVE\ns5zb7QWbZL2DVOq5TgAusYxYZpKu+XfYQHORIqUzO4Bh1YxwdU1dVZALbzXz\nBWRy+7SIqkCT6Ro2iZBHI8G663kqWGYTNgwfNxMI79MmDvgAQZVnlkIjJ2m1\nhk39fRMQImUpkWmC1dkrGrpqCdZG7p3ddvODc/lMiq43QDE8POsu74uPGn8b\nCKdp\r\n=AfYL\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCID6WI970db3KxJukaHGgMRaPCHOc7SHENg3fxjR5Wic2AiAByBOIM17L0IUTGtqojN+/w4WDhxOO4hEKLIjFwmNCrQ=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "zhaohehe520",
+        "email": "zhaohehe520@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "zhaohehe520",
+            "email": "zhaohehe520@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0.3.20-beta.11_0.3.19_1618853248484_0.3447094520459508"
+    },
+    "_hasShrinkwrap": false
+}

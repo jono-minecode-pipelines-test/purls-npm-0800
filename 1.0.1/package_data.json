@@ -1,44 +1,47 @@
 {
-    "name": "-alysia-npm-package",
-    "type": "module",
+    "name": "0.cli",
     "version": "1.0.1",
-    "main": "src/index.js",
+    "description": "",
+    "main": "lib/index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "tjh-test": "bin/index.js"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "_id": "-alysia-npm-package@1.0.1",
-    "_nodeVersion": "22.14.0",
-    "_npmVersion": "10.9.2",
+    "_id": "0.cli@1.0.1",
+    "_nodeVersion": "18.15.0",
+    "_npmVersion": "9.5.0",
     "dist": {
-        "integrity": "sha512-mWuPP39qjBsPYmZ0NUYweh82a9GFwDczy00SlsMZkBKz7IkLYid6NbmOeCkVOybVKdfpgU1qpZgJlUF/0IoeiA==",
-        "shasum": "22456d9272da911fb8ce5474459eadd3ad5462c7",
-        "tarball": "https://registry.npmjs.org/-alysia-npm-package/-/-alysia-npm-package-1.0.1.tgz",
+        "integrity": "sha512-UIsUeXtQWJoCsh6SY96jz7TAH7i3QnaNQh4PhD2o04ZhIBb0J0vH3PRTkCtRf7Us84HwnC19JDhCJ490R7ElQg==",
+        "shasum": "4f94c85e63c696dd6b10ed1fd5de7626d50cbff6",
+        "tarball": "https://registry.npmjs.org/0.cli/-/0.cli-1.0.1.tgz",
         "fileCount": 2,
-        "unpackedSize": 369,
+        "unpackedSize": 313,
         "signatures": [
             {
-                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
-                "sig": "MEUCIEZmxDqzK2CeN3/iNdo7IXqKI4tprGC3jLvwfKTlGAVlAiEA7WLOGAdDFafP1LQqZWWvnKVptZ3HIYtvDnAOKg3z+Ro="
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCQYWKGIBqY43ExVA0bkXlqELAOhrJhNMaY4pQxYevqsgIhAJzwzlg9TcoedrwEsCm3zzTrLn4olakPVpWjX8z4dw2Z"
             }
         ]
     },
     "_npmUser": {
-        "name": "monroealysia8",
-        "email": "monroealysia8@gmail.com"
+        "name": "tanjiahao",
+        "email": "tanjiahao24@163.com"
     },
     "directories": {},
     "maintainers": [
         {
-            "name": "monroealysia8",
-            "email": "monroealysia8@gmail.com"
+            "name": "tanjiahao",
+            "email": "tanjiahao24@163.com"
         }
     ],
     "_npmOperationalInternal": {
-        "host": "s3://npm-registry-packages-npm-production",
-        "tmp": "tmp/-alysia-npm-package_1.0.1_1744940976710_0.21610808835979545"
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0.cli_1.0.1_1706372500991_0.9754456682517723"
     },
     "_hasShrinkwrap": false
 }
