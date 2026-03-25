@@ -1,0 +1,47 @@
+{
+    "name": "0.cli",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "tjh-test": "bin/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "0.cli@1.0.0",
+    "_nodeVersion": "18.15.0",
+    "_npmVersion": "9.5.0",
+    "dist": {
+        "integrity": "sha512-eCTioK+5JGZNNZmZV5hG6aeoc7aZvEoIKmWbIRrkvdGeeMe+QOSsVnRrc6GY4vLrsHp3iiF2tH/9ovl33LsfIg==",
+        "shasum": "b8a2ef436e2881bc1a42162374d675f57530e5c4",
+        "tarball": "https://registry.npmjs.org/0.cli/-/0.cli-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 309,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCQbGAZ8Wi4mSnel8C1dEwqE0rSxHBbqHy1UPqezWqKuQIhAOi9Wlsem2JsGVZsjE/YQ5eJdJWB59n5NzS1r6zmYbrP"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "tanjiahao",
+        "email": "tanjiahao24@163.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "tanjiahao",
+            "email": "tanjiahao24@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0.cli_1.0.0_1706372331717_0.8923919483283911"
+    },
+    "_hasShrinkwrap": false
+}
