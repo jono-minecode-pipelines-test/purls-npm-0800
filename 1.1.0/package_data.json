@@ -1,0 +1,60 @@
+{
+    "name": "00calculator-huzaifa",
+    "type": "module",
+    "version": "1.1.0",
+    "description": "",
+    "main": "index.js",
+    "bin": {
+        "00calculator-huzaifa": "app.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^5.1.2",
+        "chalk-animation": "^2.0.3",
+        "inquirer": "^9.1.4"
+    },
+    "devDependencies": {
+        "@types/chalk": "^2.2.0",
+        "@types/chalk-animation": "^1.6.1",
+        "@types/inquirer": "^9.0.3",
+        "@types/node": "^18.11.10"
+    },
+    "gitHead": "554e8a99c3d4318b38290be4c1efdcca9ea5e98a",
+    "_id": "00calculator-huzaifa@1.1.0",
+    "_nodeVersion": "18.12.1",
+    "_npmVersion": "8.19.2",
+    "dist": {
+        "integrity": "sha512-BLqI/4O4T86fKpW+cIA8AwJHl5NoakxjYQZeddwsu4N99UmmKLFD9vzuS/l0TX2kgK0H3So556gT+saTS0mepQ==",
+        "shasum": "12ace498bbf6f22f475fe79212adaf5852d0e302",
+        "tarball": "https://registry.npmjs.org/00calculator-huzaifa/-/00calculator-huzaifa-1.1.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 17274,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCICbgxqcOkN0bOIIg6feevACpSk0KoDtuGyx7Yg5fxUtYAiEAytKUD/ipMXjnhBTw4B6ECMciwk60L0nKnRBeMcXVbbo="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjjRfqACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoO/g/9GwlQtNzJ29DWKGkfhE4rVSFWkI06eo0BXdgLJxsa8Pu9gmVZ\r\nCUtJaoYYFQwC98d9uqAY0GTgK/weMrpj0MOeglZJ/8pi3RNVwrcOA5RXxQUG\r\nv9cBjd+GDHm7XhRpifOm6MecX0a40YxXCz4+kcDcAyTTaNimirQt7qLQ0Nvw\r\nrp2HmhV+nQk7KWnCh2bu5rxVBT1ChyRcdLnunt8naM/0FvUGbdd8s9m9BQNn\r\nAX4SoW3qZZ1fq5RFPz/n/t44qmBpYsR2SnsmbuV++H5yoqgrhlmdJtx07dbz\r\nviZkmUUuyBY8BkPZbAe7rgzKaLMQRdi2wOcVUlRg0V5YlC9h+S3dNuYPIXWT\r\nNlZXrJrF2ELGsBCouUcCkxs9LiozYeiQpQ2Hqlp3ajaNbQoFnIUSEEH3nSwb\r\n8OhAL5tqdnCK6peVNOOg5PBbQ1LyruKMOBHcmmvwAGH3MF3QW9SXUXQCfNYP\r\n6qbi3oPw9tLd3tYp4gVvKz9vgQ3c5yz+XGF8f21Prm9O8Uua68r2Apyz1ZWV\r\nGMxklsJGlXSxUclaAfgWexcy9MYoI5WAELpEDOWU5ZpklZ21rTDo8oJKA5gn\r\noypKSLxFh+bVcZOhQCi5LF+CpBI7g1IootpzF79bSDfk2wyYscJQrEF1914W\r\n3/V0WiADmLuDG7T4PCzmTVRb8U/fYLjuWgY=\r\n=YXVI\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "huzaifak",
+        "email": "huzaifa50100@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "huzaifak",
+            "email": "huzaifa50100@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/00calculator-huzaifa_1.1.0_1670191082626_0.41506570383742125"
+    },
+    "_hasShrinkwrap": false
+}

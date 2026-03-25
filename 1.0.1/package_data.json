@@ -1,47 +1,53 @@
 {
-    "name": "0.cli",
+    "name": "001_multiple-choice",
     "version": "1.0.1",
-    "description": "",
-    "main": "lib/index.js",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "001_multiple-choice": "index.js"
+    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "bin": {
-        "tjh-test": "bin/index.js"
-    },
-    "keywords": [],
     "author": "",
     "license": "ISC",
-    "_id": "0.cli@1.0.1",
-    "_nodeVersion": "18.15.0",
-    "_npmVersion": "9.5.0",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "001_multiple-choice@1.0.1",
+    "gitHead": "267bcf02c980af33cfdbf1f1766dd1d672084908",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.5.0",
     "dist": {
-        "integrity": "sha512-UIsUeXtQWJoCsh6SY96jz7TAH7i3QnaNQh4PhD2o04ZhIBb0J0vH3PRTkCtRf7Us84HwnC19JDhCJ490R7ElQg==",
-        "shasum": "4f94c85e63c696dd6b10ed1fd5de7626d50cbff6",
-        "tarball": "https://registry.npmjs.org/0.cli/-/0.cli-1.0.1.tgz",
-        "fileCount": 2,
-        "unpackedSize": 313,
+        "integrity": "sha512-gqh/J0sM9aU2PTRc35ik8bbthx246FyBUN0ukKsrWZPyMQtevsI345LUxHaPR0Q6z4klFU5IQcD+r5A6dijItQ==",
+        "shasum": "e1288ea6bc4f93b213e2aaa5f12aa6d59f6e8cb8",
+        "tarball": "https://registry.npmjs.org/001_multiple-choice/-/001_multiple-choice-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 20996,
         "signatures": [
             {
                 "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
-                "sig": "MEYCIQCQYWKGIBqY43ExVA0bkXlqELAOhrJhNMaY4pQxYevqsgIhAJzwzlg9TcoedrwEsCm3zzTrLn4olakPVpWjX8z4dw2Z"
+                "sig": "MEUCIQDwTSoopu7trzvvIPMr+l+UqC1MG3nu5lJ4NYgY4dXMSwIgfmeFyz0AvLUQdYEheL9cuTWCkEcqz4n+sfzfIO2mnfQ="
             }
         ]
     },
     "_npmUser": {
-        "name": "tanjiahao",
-        "email": "tanjiahao24@163.com"
+        "name": "yusrafatima",
+        "email": "yusra7003@gmail.com"
     },
     "directories": {},
     "maintainers": [
         {
-            "name": "tanjiahao",
-            "email": "tanjiahao24@163.com"
+            "name": "yusrafatima",
+            "email": "yusra7003@gmail.com"
         }
     ],
     "_npmOperationalInternal": {
         "host": "s3://npm-registry-packages",
-        "tmp": "tmp/0.cli_1.0.1_1706372500991_0.9754456682517723"
+        "tmp": "tmp/001_multiple-choice_1.0.1_1715187088607_0.4493640419165925"
     },
     "_hasShrinkwrap": false
 }

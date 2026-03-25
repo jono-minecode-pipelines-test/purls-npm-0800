@@ -1,47 +1,60 @@
 {
-    "name": "0.cli",
+    "name": "00calculator-huzaifa",
+    "type": "module",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
+    "bin": {
+        "00calculator-huzaifa": "index.js"
+    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "bin": {
-        "tjh-test": "bin/index.js"
-    },
-    "keywords": [],
     "author": "",
     "license": "ISC",
-    "_id": "0.cli@1.0.0",
-    "_nodeVersion": "18.15.0",
-    "_npmVersion": "9.5.0",
+    "dependencies": {
+        "chalk": "^5.1.2",
+        "chalk-animation": "^2.0.3",
+        "inquirer": "^9.1.4"
+    },
+    "devDependencies": {
+        "@types/chalk": "^2.2.0",
+        "@types/chalk-animation": "^1.6.1",
+        "@types/inquirer": "^9.0.3",
+        "@types/node": "^18.11.10"
+    },
+    "gitHead": "d1912c3aa98af15644859b653d5ef4a0b07a1530",
+    "_id": "00calculator-huzaifa@1.0.0",
+    "_nodeVersion": "18.12.1",
+    "_npmVersion": "8.19.2",
     "dist": {
-        "integrity": "sha512-eCTioK+5JGZNNZmZV5hG6aeoc7aZvEoIKmWbIRrkvdGeeMe+QOSsVnRrc6GY4vLrsHp3iiF2tH/9ovl33LsfIg==",
-        "shasum": "b8a2ef436e2881bc1a42162374d675f57530e5c4",
-        "tarball": "https://registry.npmjs.org/0.cli/-/0.cli-1.0.0.tgz",
-        "fileCount": 2,
-        "unpackedSize": 309,
+        "integrity": "sha512-bii3erNpN8CCXpgju7jYnSyTG9grsNGi3RcaqXumvT23mXkWQ5jGA+zxdnMhf5Kgaxwh7sgrKhrraFDtXzzGmA==",
+        "shasum": "d2851e47a3dd3d3c94f1a09275598bb8f8460bf4",
+        "tarball": "https://registry.npmjs.org/00calculator-huzaifa/-/00calculator-huzaifa-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 17276,
         "signatures": [
             {
                 "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
-                "sig": "MEYCIQCQbGAZ8Wi4mSnel8C1dEwqE0rSxHBbqHy1UPqezWqKuQIhAOi9Wlsem2JsGVZsjE/YQ5eJdJWB59n5NzS1r6zmYbrP"
+                "sig": "MEQCIFwrzsRMVdPHFuuDH/FTwm/WV7sYRjsa2OolR52ALsURAiBrLHT92o+AJdodYuX1ToO72UTSDPVcZAsDrcYk/bNrxA=="
             }
-        ]
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjjRbaACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpFog/7BgWBMNTGGaXYsGUtR2bf6hGM2ZFy1H5MSfwr92KU6ry5Y+n0\r\nSBe8K9C1Jf1Qs+osMw1BmHwUAPkvDFMDwlD3yi36i1M2eDM1zly3wN4l6bD6\r\nKnq9ylxacB73PxZjS5NWLr/DU/DI42kfIhrmXdIgcAbTdqffOnNqGo9ed1p+\r\nr7jtGSWJtHr2qOF/qJV2cxLMR7m+2yQUt3s7AXsqyvYc6q6NcP8LYbtjTlJD\r\n9g/89+2TVAi9FjlP3GblrEBG+ROhQTnq9qXhNt1EAVEQLyCLCXVXqJzEm50+\r\nf84DBOdPxiMjBhx78fxfewvtOzb/kY4BR7WO/Cm8itb84P3mH/Iq2XLpv2JS\r\nAqeNgZdfW28Zc/l6MtxIzUwSziRUpCpO/3tDfwa8oQk3y3pyMPmNpskM3CkB\r\nBD4Qs9uKLHHFbGJ1f/TQB3EiMmH0T+2Nvzsp5wHVbN/a+FEc0tgxB1guEOfu\r\ncqun5dWb4U7ha5lq2fhC0vtn4fp/MLiRfKrpO4NXx9Lh8lEbl+uWfRNEeKTo\r\nlm3oIuNUFWULXaiwW2X7Dj3fLxYN73Ci96maiDIuezbxoTeaRVU7iaDMCoXB\r\nde+fTnfPHgmwsIDLxvledLEuQIeEesFqofbGup2FxgSFNCpByr9ePZGzncZr\r\n0c8s3vinUscuP5CPo4nCf9hoZUxUEczz6qQ=\r\n=vQ4O\r\n-----END PGP SIGNATURE-----\r\n"
     },
     "_npmUser": {
-        "name": "tanjiahao",
-        "email": "tanjiahao24@163.com"
+        "name": "huzaifak",
+        "email": "huzaifa50100@gmail.com"
     },
     "directories": {},
     "maintainers": [
         {
-            "name": "tanjiahao",
-            "email": "tanjiahao24@163.com"
+            "name": "huzaifak",
+            "email": "huzaifa50100@gmail.com"
         }
     ],
     "_npmOperationalInternal": {
         "host": "s3://npm-registry-packages",
-        "tmp": "tmp/0.cli_1.0.0_1706372331717_0.8923919483283911"
+        "tmp": "tmp/00calculator-huzaifa_1.0.0_1670190810255_0.840201700670477"
     },
     "_hasShrinkwrap": false
 }
