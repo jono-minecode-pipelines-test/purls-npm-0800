@@ -1,0 +1,42 @@
+{
+    "name": "--frozen-lockfile",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": {
+        "name": "RealPeha"
+    },
+    "license": "MIT",
+    "_id": "--frozen-lockfile@1.0.0",
+    "_nodeVersion": "14.18.2",
+    "_npmVersion": "6.14.15",
+    "dist": {
+        "integrity": "sha512-jzXd+L74tZk0IQKqN+bl5vWhcmAaDzYAHW+AVM2n5V0CIGLH5bp7W60PIPn8obUEqZetz5re06sVVq4VYjBAyg==",
+        "shasum": "163875eb46307470713baf28aac9dccbf4b0ff76",
+        "tarball": "https://registry.npmjs.org/--frozen-lockfile/-/--frozen-lockfile-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 145,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNPiNACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrQdw/+K+p2mkjQIdnMtAtKAX5wV3XPTSxofqpco7/dqHJczlIohzv7\r\ne6ElzDiY+VEIISbZV0Xj4PfEzFaDcs3lYNmSidaupb6qiafoejm/8lf+lM0M\r\nTgDdLPaN13h4TSxCy2lWExgLmnzd5BHbYvX7EA+q7vOpLnrB86ndxL+h5Tdh\r\n4+q2Dii2KHK0gcgUfqKuLgGBwr8I3MsVtnnnlfKTUfu5ZXhF5X8E8RlO96Fx\r\nT8DhmSysyZk8P1zNXM+YphKiOEXq9AYfwsoSpIqZR1zBWnN5Nw0EON5qVg6G\r\n0CMrXs+LJl7yMzcOFvEfwfZT/nK/AnD7MmStjvBUmh2WwCW1As8RRVzuA3kI\r\nOL67AaXXeYUToRMqj+9XzJErpJujsdsUtRvewGWHsYlJYtCC2NKa6PZ4NP6F\r\nb/8Ql8Wx3LdJzuEUWIMszeizqTU+u+u0DacpgTZg4T0o8bJxlzU9twbFe55b\r\nhNEsyElbQ57VjZYTNGD/vWvBFHXs6PKeP2a2kguKCJedarHdP43/yzE4fkTL\r\nVK9wg7iveuu92VfJ44nYCawGZlQE4YZ6f6hc0mFjQDaFCqJUjavve9wXcdqY\r\nL3JSJWFMOIQBlrgnnZfbMK+tUq4Zx6ZzFbDER2+JNt6NJ5BquLMBNseuxN7i\r\nBZmD6GeiY5ONTx9dwrSZQVKkgk4DfwrkyAI=\r\n=B+NI\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIHBdpWF6BDxH618nCXKkvR/SV1gjCz98t8okwxdfsyrZAiEA8XHAKHSLwFe9bTXqxOgHhwn4QukuFMRW+/ys14LAA0I="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "realpeha",
+        "email": "real.peha@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "realpeha",
+            "email": "real.peha@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/--frozen-lockfile_1.0.0_1647638669359_0.5559473170476161"
+    },
+    "_hasShrinkwrap": false
+}

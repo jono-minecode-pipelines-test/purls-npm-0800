@@ -1,0 +1,44 @@
+{
+    "name": "-alysia-npm-package",
+    "version": "1.0.0",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "-alysia-npm-package@1.0.0",
+    "maintainers": [
+        {
+            "name": "monroealysia8",
+            "email": "monroealysia8@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "734b0ccc8c094bea16cdde84a695e8a1161cc544",
+        "tarball": "https://registry.npmjs.org/-alysia-npm-package/-/-alysia-npm-package-1.0.0.tgz",
+        "fileCount": 2,
+        "integrity": "sha512-9yTVhRFYiTuABCD2wckyRDkAozTZkcGodZAVYXURgnHtlCjh0kkdaqFNzrRImt2HD+GNawy9i60eU6sIJyuR6g==",
+        "signatures": [
+            {
+                "sig": "MEUCIQCoJEiYiiGryRygLiZxFJTJ/zBcngnyl95VXIbm53iKdQIgeC3eZlDS3zmMf4ItV4mdlMxyFkM8Sbc0vfb0K4HENlw=",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 369
+    },
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "_npmUser": {
+        "name": "monroealysia8",
+        "email": "monroealysia8@gmail.com"
+    },
+    "_npmVersion": "10.9.2",
+    "directories": {},
+    "_nodeVersion": "22.14.0",
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/-alysia-npm-package_1.0.0_1744940953188_0.366275612733147",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}
